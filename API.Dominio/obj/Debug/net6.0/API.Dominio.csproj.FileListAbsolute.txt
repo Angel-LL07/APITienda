@@ -1,0 +1,12 @@
+C:\Users\angel\OneDrive\Escritorio\APITienda\API.Dominio\bin\Debug\net6.0\API.Dominio.deps.json
+C:\Users\angel\OneDrive\Escritorio\APITienda\API.Dominio\bin\Debug\net6.0\API.Dominio.dll
+C:\Users\angel\OneDrive\Escritorio\APITienda\API.Dominio\bin\Debug\net6.0\API.Dominio.pdb
+C:\Users\angel\OneDrive\Escritorio\APITienda\API.Dominio\obj\Debug\net6.0\API.Dominio.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\APITienda\API.Dominio\obj\Debug\net6.0\API.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Escritorio\APITienda\API.Dominio\obj\Debug\net6.0\API.Dominio.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\APITienda\API.Dominio\obj\Debug\net6.0\API.Dominio.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\APITienda\API.Dominio\obj\Debug\net6.0\API.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\APITienda\API.Dominio\obj\Debug\net6.0\API.Dominio.dll
+C:\Users\angel\OneDrive\Escritorio\APITienda\API.Dominio\obj\Debug\net6.0\refint\API.Dominio.dll
+C:\Users\angel\OneDrive\Escritorio\APITienda\API.Dominio\obj\Debug\net6.0\API.Dominio.pdb
+C:\Users\angel\OneDrive\Escritorio\APITienda\API.Dominio\obj\Debug\net6.0\ref\API.Dominio.dll

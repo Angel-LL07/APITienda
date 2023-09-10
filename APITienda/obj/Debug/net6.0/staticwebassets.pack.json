@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\angel\\OneDrive\\Escritorio\\APITienda\\APITienda\\wwwroot\\Documentos\\cargar.xlsx",
+      "PackagePath": "staticwebassets\\Documentos\\cargar.xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.APITienda.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.APITienda.props",
+      "PackagePath": "build\\APITienda.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.APITienda.props",
+      "PackagePath": "buildMultiTargeting\\APITienda.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.APITienda.props",
+      "PackagePath": "buildTransitive\\APITienda.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

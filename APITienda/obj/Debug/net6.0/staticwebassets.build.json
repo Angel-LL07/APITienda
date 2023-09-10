@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "i0yAIYRxddg6BhS+sebFpzoxdJBKrBvgfTKIz2tEfQ8=",
+  "Source": "APITienda",
+  "BasePath": "_content/APITienda",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "APITienda\\wwwroot",
+      "Source": "APITienda",
+      "ContentRoot": "C:\\Users\\angel\\OneDrive\\Escritorio\\APITienda\\APITienda\\wwwroot\\",
+      "BasePath": "_content/APITienda",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
